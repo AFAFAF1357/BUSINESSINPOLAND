@@ -330,7 +330,6 @@ nav.title-bar .menu-icon
 	display: flex;
 	flex: 0 1 auto;
 	order: 1;
-	min-height: 55px;
 	align-self: center;
 	justify-content: flex-start;
 }
@@ -340,13 +339,14 @@ nav.title-bar .menu-icon
 	border: none;
 	padding: 0;
 	margin: 0;
+	width: 182px;
+	height: 42px;
 	z-index: 1;
-	display: block;
-	width: 229px;
-	height: 55px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	display: none;
 	align-self: center;
-	background: transparent url('Images/PlaceholderLogo-white_1.png') no-repeat center center;
-	-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/PlaceholderLogo-white_1.png') no-repeat center center;
+	background: none;
 }
 
 .title-bar-container
@@ -997,11 +997,6 @@ div.central-dropdown-content > a:hover
 	border-top: solid 1px #b9bec1;
 	border-bottom: solid 1px #b9bec1;
 	height: 40px;
-}
-
-.menu-icon-container
-{
-	min-height: 55px;
 }
 
 .off-canvas-wrapper-inner .outer-row

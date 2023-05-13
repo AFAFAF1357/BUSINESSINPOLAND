@@ -442,18 +442,6 @@ div.MCBreadcrumbsBox_0
 	margin-bottom: 10px;
 }
 
-.glossaryTerm
-{
-	font-weight: bold;
-	color: Olive;
-}
-
-.glossaryTerm:link
-{
-	font-weight: bold;
-	color: Olive;
-}
-
 .MCTextPopup_Open.MCTextPopupHotSpot_
 {
 	background-position: right;
@@ -477,6 +465,24 @@ div.MCBreadcrumbsBox_0
 	border: solid 1px #000000;
 	margin: 0px;
 	padding: 5px;
+}
+
+.\000023text
+{
+	font-weight: bold;
+	color: Olive;
+}
+
+.glossaryTerm
+{
+	font-weight: bold;
+	color: Olive;
+}
+
+.glossaryTerm:link
+{
+	font-weight: bold;
+	color: Olive;
 }
 
 .dropDownHotspot
