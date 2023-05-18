@@ -294,6 +294,8 @@ div.footer
 	background: -o-linear-gradient(#004863, black, black);
 	background: -moz-linear-gradient(#004863, black, black);
 	background: linear-gradient(#004863, black, black);
+	color: #ffffff;
+	padding-left: 16px;
 }
 
 div.footer a
@@ -311,9 +313,9 @@ div.footer p	/* Complex Selector: Any <p> that is contained within div.footer wi
 div.home-master-page-footer	/*This layout was created using the Responsive Layout Editor in MadCap Flare. Go to: Home Ribbon > Styles Section > Responsive Layout*/
 {
 	mc-grid-row: true;
-	margin-left: auto;
 	margin-right: auto;
 	width: 55%;
+	margin-left: 16px;
 }
 
 div.home-master-page-footer::before
@@ -548,5 +550,13 @@ Styles after this point are styles that are for specific mediums. If any additio
 div.Disclaimer
 {
 	border: solid 1px #000000;
+}
+
+@media print
+{
+	div.footer
+	{
+		mc-printer-page-margin-left: 3px;
+	}
 }
 
