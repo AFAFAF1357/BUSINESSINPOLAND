@@ -2001,7 +2001,7 @@ ul.sidenav li
 
 ul.sidenav li.is-accordion-submenu-parent > a span.submenu-toggle
 {
-	border-top-color: #a1a8ac;
+	border-top-color: transparent;
 }
 
 ul.sidenav ul > li > a:hover
