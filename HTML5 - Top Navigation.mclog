@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2022 r3 Generated HTML5 - Top Navigation.fltar" Date="2023-05-20T13:29:16.3140741+02:00" Branch="master" Commit="194b4ecd9cff76d291dd9bfe28b165d45bb09b03">
+<MadCapLog Protocol="2" Description="MadCap Flare 2022 r3 Generated HTML5 - Top Navigation.fltar" Date="2023-05-20T13:47:59.6216633+02:00" Branch="master" Commit="194b4ecd9cff76d291dd9bfe28b165d45bb09b03">
     <Messages>Compiling target HTML5 - Top Navigation...
 Removing previously generated content...
 Loading skin info...
@@ -125,7 +125,7 @@ Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated Default.htm
 Saving result set...
 Ignored Compiler Warnings: 39
-Output generated in 53 second(s).
+Output generated in 1 minute(s) and 14 second(s).
 
 Done
 Saving log to "C:\Users\afabi\OneDrive\Desktop\TESTPUBL\Output\HTML5 - Top Navigation\HTML5 - Top Navigation.mclog"

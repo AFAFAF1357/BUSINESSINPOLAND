@@ -294,6 +294,11 @@ th.alternating_raws
 	{
 		
 	}
+
+	p.printonlyheading
+	{
+		color: #006400;
+	}
 }
 
 p.Summary
