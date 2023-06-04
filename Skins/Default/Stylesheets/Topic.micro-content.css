@@ -442,6 +442,18 @@
 	margin-bottom: 10px;
 }
 
+.micro-response-183575496 .glossaryTerm
+{
+	font-weight: bold;
+	color: Olive;
+}
+
+.micro-response-183575496 .glossaryTerm:link
+{
+	font-weight: bold;
+	color: Olive;
+}
+
 .micro-response-183575496 .MCTextPopup_Open.MCTextPopupHotSpot_
 {
 	background-position: right;
@@ -465,24 +477,6 @@
 	border: solid 1px #000000;
 	margin: 0px;
 	padding: 5px;
-}
-
-.micro-response-183575496 .\000023text
-{
-	font-weight: bold;
-	color: Olive;
-}
-
-.micro-response-183575496 .glossaryTerm
-{
-	font-weight: bold;
-	color: Olive;
-}
-
-.micro-response-183575496 .glossaryTerm:link
-{
-	font-weight: bold;
-	color: Olive;
 }
 
 .micro-response-183575496 .dropDownHotspot

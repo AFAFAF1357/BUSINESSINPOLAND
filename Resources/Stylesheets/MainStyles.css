@@ -68,6 +68,7 @@ p
 {
 	margin-bottom: 8px;
 	margin-top: 8px;
+	margin-left: 0;
 }
 
 img	/*Setting max-width: 100%; property makes images always fit the width of the container*/
@@ -162,6 +163,51 @@ div.Note > p:first-child
 	mc-auto-number-format: '{b} Remember: {/b}';
 }
 
+div.ActionNEW
+{
+	padding-left: 90px;
+	background-repeat: no-repeat;
+	background-position: 10px 25px;
+	padding-bottom: 10px;
+	border: solid 2px #1d59a9;
+	background-image: url('../Images/Assets/Icons/MainIcons/Services-black.png');
+}
+
+div.ActionNEW p
+{
+	background-repeat: no-repeat;
+}
+
+div.FRAMEACT p
+{
+	mc-auto-number-format: '{b}What to do:{/b}';
+}
+
+div.AFREXAMPLE
+{
+	background-repeat: no-repeat;
+	border: solid 2px #1d59a9;
+	border-color: #1d59a9;
+	padding-left: 90px;
+	background-image: url('../Images/Assets/Icons/MainIcons/Tips-black.png');
+	padding-bottom: 10px;
+	background-position: 10px 9px;
+	padding-right: 10px;
+	background-size: 25px;
+}
+
+div.AFRREMEMBER
+{
+	padding-bottom: 10px;
+	padding-left: 90px;
+	background-image: url('../Images/Assets/Icons/MainIcons/Notes-black.png');
+	background-repeat: no-repeat;
+	background-position: 10px 9px;
+	border: solid 2px #1d59a9;
+	padding-right: 10px;
+	background-size: 25px;
+}
+
 /*===========================================================================================================================================================
 Styles after this point are styles that are for specific mediums. If any additional styles are added to this template they will be listed after mediums.
 [@media tablet] declares styles that will apply when the screen is in tablet view
@@ -217,17 +263,6 @@ th.alternating_raws
 		border-color: #0d5f2c;
 	}
 
-	div.Action
-	{
-		border-color: #0d5f2c;
-		border: solid 2px #0d5f2c;
-		padding: 10 px 10 px 10 px 90 px;
-		margin: 20 px 10 px 20 px 0 px;
-		border-left-length: 0px;
-		padding-left: 90;
-		padding-right: 10;
-	}
-
 	div.Name
 	{
 		border: solid 2px #0d5f2c;
@@ -243,6 +278,14 @@ th.alternating_raws
 	{
 		border: solid 2px #0d5f2c;
 		border-color: #0d5f2c;
+		margin-top: px;
+		margin-bottom: px;
+		padding-right: px;
+		padding-top: px;
+		margin: 0px 0px 0px 0px;
+		padding: 0px;
+		padding-bottom: 10px;
+		padding-left: 90px;
 	}
 
 	h3
@@ -299,6 +342,111 @@ th.alternating_raws
 	{
 		color: #006400;
 	}
+
+	div.ActionNEW > p:first-child
+	{
+		border: solid 2px #0d5f2c;
+		background-image: url('../Images/Assets/Icons/MainIcons/Services-black.png');
+	}
+
+	div.FRAMESUM
+	{
+		border: solid 2px #006400;
+	}
+
+	div.FRAMEACT
+	{
+		border: solid 2px #006400;
+		background-image: url('../Images/Assets/Icons/MainIcons/Services-black.png');
+		background-repeat: no-repeat;
+	}
+
+	div.FRAMEREM
+	{
+		border: solid 2px #006400;
+		background-image: url('../Images/Assets/Icons/MainIcons/Notes-black.png');
+		background-repeat: no-repeat;
+	}
+
+	div.FRAMEEX
+	{
+		border: solid 2px #006400;
+		padding-left: 22px;
+	}
+
+	div.FRAMEEXAMPLE
+	{
+		border: solid 2px #006400;
+	}
+
+	div.FRAMEACT p
+	{
+		
+	}
+
+	div.FRAMEACT > p:first-child
+	{
+		mc-auto-number-format: '{b}What to do:{/b}';
+	}
+
+	div.FRAMEEXAMPLE > p:first-child
+	{
+		mc-breadcrumbs-count: inherit;
+		mc-auto-number-format: '{b}Example:';
+	}
+
+	div.FRAMEREM > p:first-child
+	{
+		mc-auto-number-format: '{b}Remember:';
+	}
+
+	div.FRAMESUM > p:first-child
+	{
+		mc-auto-number-format: '{b}In a nutshell:';
+	}
+
+	div.Action
+	{
+		border: solid 2px #006400;
+		border-color: #006400;
+		margin: 0px 0px 0px 20px;
+		text-align: left;
+		border-left-align: left;
+	}
+
+	div.AFREXAMPLE
+	{
+		border-color: #006400;
+		border: solid 1px #006400;
+	}
+
+	div.AFRACTION
+	{
+		border-color: #006400;
+		padding: 0px;
+		padding-bottom: 10px;
+		padding-left: 90px;
+		border: solid 1px #006400;
+		padding-right: 10px;
+	}
+
+	div.AFRNUTSHELL
+	{
+		border-color: #006400;
+		border: solid 1px #006400;
+	}
+
+	div.AFRREMEMBER
+	{
+		border-color: #006400;
+		border: solid 1px #006400;
+		background-size: 25px;
+	}
+
+	div.AFREMEMBER
+	{
+		border: solid 1px #006400;
+	}
 }
 
 p.Summary
@@ -328,6 +476,8 @@ div.Action
 	border-left-length: 0px;
 	padding: 10px 10px 10px 90px;
 	background-image: url('../Images/Assets/Icons/MainIcons/Services-black.png');
+	mc-auto-number-class: inherit;
+	mc-auto-number-format: 'inherit';
 }
 
 div.Example
@@ -434,5 +584,64 @@ p.printonlyheading
 	margin-top: 8px;
 	font-size: 14pt;
 	color: #1d59a9;
+}
+
+div.AFREXAMPLE > p:first-child
+{
+	mc-auto-number-format: '{b}Example:{/b}';
+}
+
+div.AFRACTION > p:first-child
+{
+	mc-auto-number-format: '{b}What to do:{/b}';
+}
+
+div.AFRNUTSHELL > p:first-child
+{
+	mc-auto-number-format: '{b}In a nutshell:{/b}';
+}
+
+div.AFREMEMBER > p:first-child
+{
+	mc-auto-number-format: '{b}Remember:{/b}';
+}
+
+div.AFRNUTSHELL
+{
+	background-repeat: no-repeat;
+	border: solid 2px #1d59a9;
+	border-color: #1d59a9;
+	padding-left: 90px;
+	background-image: url('../Images/Assets/Icons/MainIcons/Solutions-black.png');
+	padding-bottom: 10px;
+	background-position: 10px 9px;
+	padding-right: 10px;
+	background-size: 30px;
+}
+
+div.AFRACTION
+{
+	background-repeat: no-repeat;
+	border: solid 2px #1d59a9;
+	border-color: #1d59a9;
+	padding-left: 90px;
+	background-image: url('../Images/Assets/Icons/MainIcons/Services-black.png');
+	padding-bottom: 10px;
+	background-position: 10px 9px;
+	padding-right: 10px;
+	background-size: 25px;
+}
+
+div.AFREMEMBER
+{
+	background-repeat: no-repeat;
+	border: solid 2px #1d59a9;
+	border-color: #1d59a9;
+	padding-left: 90px;
+	background-image: url('../Images/Assets/Icons/MainIcons/Notes-black.png');
+	padding-bottom: 10px;
+	background-position: 10px 9px;
+	padding-right: 10px;
+	background-size: 25px;
 }
 
