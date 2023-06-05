@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    glossTerm="Glossary.Term0"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>sole tradership</Term>
+    </Terms>
+    <Definition
+      Link="">in Polish: jednoosobowa działalność gospodarcza or JDG, is a business activity owned and run by one person, in which there is no legal distinction between the owner and the business entity</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term18">
+    <Terms>
+      <Term>CEIDG</Term>
+    </Terms>
+    <Definition>Centralna Informacja i Ewidencja Działalności Gospodarczej – the Central Register and Information on Economic Activity – is the Polish office run by the minister in charge of economic matters, where sole traderships and civil-law partnerships are registered</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term1"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>business incubator</Term>
+    </Terms>
+    <Definition
+      Link="">A business incubator is an entity that gives a potential entrepreneur a legal personality to use. A natural person can run a business activity through a business incubator without a need to register business</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term2">
+    <Terms>
+      <Term>fiscal cash register</Term>
+    </Terms>
+    <Definition>Fiscal cash register is  a device where you register all the products or services that you sold</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term3"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>early retirement</Term>
+    </Terms>
+    <Definition
+      Link="">Early retirement – an old-age entitlement for persons born between 1949 and 1968, who worked under special conditions or performed a specific type of work</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term4">
+    <Terms>
+      <Term>minor</Term>
+    </Terms>
+    <Definition>A person under 18 years of age</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term5"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>unregistered business activity</Term>
+    </Terms>
+    <Definition
+      Link="">Unregistered business activity is a small-size business activity, where the monthly revenue does not exceed a specified limit. It is not subject to the requirement of registration.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term6"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Polska Klasyfikacja Działalności</Term>
+    </Terms>
+    <Definition
+      Link="">Polska Klasyfikacja Działalności, or PKD,  is a Polish system of business activity classification corresponding to the NACE used in the UE.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term7"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Social Security Office</Term>
+    </Terms>
+    <Definition
+      Link="">Social Security Office – in Polish: Zakład Ubezpieczeń Społecznych, or ZUS – is the authority responsible for assessing and collecting contributions and payment of social security benefits.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term8"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Incentive for New Businesses</Term>
+    </Terms>
+    <Definition
+      Link="">Incentive for new businesses – in Polish, ulga na start – is an incentive offered to newly-created businesses. It involves paying reduced social security contributions for a fixed period of time.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term9"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Reduced-base contributions</Term>
+    </Terms>
+    <Definition
+      Link="">Reduced-base contributions – in Polish: składki od obniżonej podstawy – is an incentive for new businesses. An entrepreneur pays reduced social security contributions for a fixed period.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term10"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Podatkowa Księga Przychodów i Rozchodów</Term>
+    </Terms>
+    <Definition
+      Link="">Podatkowa Księga Przychodów i Rozchodów, or PKPIR, is a simplified form of accounting for small businesses. You need to register your revenue and costs only.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term11">
+    <Terms>
+      <Term>Revenue register</Term>
+    </Terms>
+    <Definition>Revenue register – it is a register of your revenues, you can keep it on paper or in electronic form, separately for each year</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term12"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>REGON</Term>
+    </Terms>
+    <Definition
+      Link="">REGON is a statistical number assigned to businesses by Statistics Poland (GUS).</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term13">
+    <Terms>
+      <Term>VAT</Term>
+    </Terms>
+    <Definition>Value Added Tax. In Polad, it is often called the tax on goods and services.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term14">
+    <Terms>
+      <Term>Statistics Poland</Term>
+    </Terms>
+    <Definition>GUS, is Poland's central statistical office.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term15">
+    <Terms>
+      <Term>NIP</Term>
+    </Terms>
+    <Definition>a Taxpayer's Identification Number assigned to firms and natural persons that conduct business actiivity</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

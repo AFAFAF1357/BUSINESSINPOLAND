@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div>
+            <p>You can access the registration form in two ways:</p>
+            <ul>
+                <li>electronically </li>
+                <li>on paper</li>
+            </ul>
+            <p>To access and fill in the registration form electronically, you need to have a method of confirming your identity. </p>
+            <p>You can use any of the following methods of confirming your identity:</p>
+            <ul>
+                <li>profil zaufany (trusted profile)</li>
+                <li>e-dowód (Polish e-ID&#160;card)</li>
+                <li>a bank account in one of the banks that offer a confirmation of your identity</li>
+            </ul>
+            <p>If you do not have any of them, you still can click the relevant option .You will be re-directed to a page where you can apply for either a trusted profile, or a Polish e-card.</p>
+            <p>&#160;</p>
+            <div class="AFREMEMBER">
+                <p MadCap:autonum="&lt;b&gt;Remember:&lt;/b&gt;">&#160;</p>
+                <p>This is a separate process from registering your business and may take up to 14 days and require a visit to an office or a video conference with an officer. For this reason, it may be simpler and quicker to print the registration form and file it in person.</p>
+            </div>
+            <MadCap:dropDown>
+                <MadCap:dropDownHead>
+                    <MadCap:dropDownHotspot>If you can use one of the above methods of confirming your identity, you can fill in the registration application online. Follow these steps:</MadCap:dropDownHotspot>
+                </MadCap:dropDownHead>
+                <MadCap:dropDownBody>
+                    <ol>
+                        <li>Go to website <a href="https://www.biznes.gov.pl/pl" target="_blank">Biznes.gov.pl</a></li>
+                        <li>Click the button "ZAREJESTRUJ&#160;FIRMĘ" (Register your business)<br /><img src="../Images/access1.png" style="width: 555px;height: 346px;" /></li>
+                        <li>Click the button "ROZPOCZNIJ"&#160;(Start)<br /><img src="../Images/access2.png" style="width: 528px;height: 256px;" /></li>
+                        <li>You will have two login options:<ul><li>"Zaloguj się przez Login.gov.pl" (Log in via Login.gov.pl)</li><li>"Zaloguj się przez e-mail"&#160;(Log in using our e-mail) </li></ul></li>
+                       Choose the one that you want to use.
+                            <img src="../Images/access3.png" style="width: 638px;height: 517px;" /><li>You will be asked to give your e-mail address. Any information from biznes.gov, including a confirmation of submitting your registration application, will be sent to this e-mail address. Give your valid e-email address.</li><li>&#160;You will see this page. It gives you a brief information on how to register a business. It also says that registering a business in Poland is free of charge. Click "DALEJ"&#160;(Next).</li></ol>
+                    <p>
+                        <img src="../Images/access6.png" />
+                    </p>
+                    <p>&#160;</p>
+                    <div class="AFREMEMBER">
+                        <p MadCap:autonum="&lt;b&gt;Remember:&lt;/b&gt;">&#160;</p>
+                        <p> If you are asked to make any payment, beware - you might have been redirected to a fake page.</p>
+                    </div>
+                    <p>&#160;</p>
+                    <p>You have reached the registration form online. Fill it in using the guidelines in section <a href="../../Express path/Fill in form.htm">How to fill in the form</a>.</p>
+                </MadCap:dropDownBody>
+            </MadCap:dropDown>
+            <MadCap:dropDown>
+                <MadCap:dropDownHead>
+                    <MadCap:dropDownHotspot>If you do not have any of the above methods of confirming your identity, you will need to prepare a paper version of your application. Follow these steps:</MadCap:dropDownHotspot>
+                </MadCap:dropDownHead>
+                <MadCap:dropDownBody>
+                    <ol>
+                        <li>Go to <a href="https://zaplecze.biznes.gov.pl/files/document_attachments/2202/CEIDG1_v_211.pdf" target="_blank">CEIDG&#160;page</a></li>
+                        <li>Download the form to your computer and save it.</li>
+                        <li>Then you can either:</li>
+                    </ol>
+                    <ul>
+                        <li>print the form and fill it in with a pen</li>
+                        <li>fill it in the Acrobat, using the "Fill in and sign" function. Then print it. </li>
+                    </ul>
+                    <p>If you do not have Adobe Acrobat Reader, you can download it from the <a href="https://get.adobe.com/pl/reader/" target="_blank">product website</a>.</p>
+                    <p>Read the detailed <a href="../../Express path/Fill in form.htm">guide</a> on how to fill in individual fields.</p>
+                    <div class="AFREMEMBER">
+                        <p MadCap:autonum="&lt;b&gt;Remember: &lt;/b&gt;">&#160;</p>
+                        <p>Do not sign the form yet!&#160;You will need it to sign it in the presence of an officer.</p>
+                    </div>
+                </MadCap:dropDownBody>
+            </MadCap:dropDown>
+        </div>
+    </body>
+</html>

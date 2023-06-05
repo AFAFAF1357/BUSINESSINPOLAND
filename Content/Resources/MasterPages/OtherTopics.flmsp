@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" /><title></title>
+    </head>
+    <body>
+        <div class="content-container">
+            <div class="side-content">
+                <MadCap:topicToolbarProxy style="mc-topic-toolbar-items: ;" data-mc-skin="/Project/Skins/TopicToolBar.flskn" />
+            </div>
+            <p>&#160;</p>
+            <p>&#160;</p>
+            <MadCap:breadcrumbsProxy />
+            <MadCap:bodyProxy />
+        </div>
+    </body>
+</html>

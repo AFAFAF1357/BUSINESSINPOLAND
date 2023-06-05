@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" /><title></title>
+        <link href="../Stylesheets/StylesForHomePage.css" rel="stylesheet" type="text/css" />
+    </head>
+    <head>
+    </head>
+    <body>
+        <h1 style="text-align: center;">How to open a business in Poland</h1>
+        <div id="contentBody" class="off-canvas-main">
+            <MadCap:bodyProxy />
+            <div class="footer center">
+                <div>
+                    <p>
+                        <img src="../Images/Assets/Icons/MainIcons/Contact-white.png" />
+                    </p>
+                    <p><MadCap:variable name="General.Email" />
+                    </p>
+                    <p>
+                        <img src="../Images/Assets/Icons/SocialMedia/LI-white.png" />
+                    </p>
+                    <p><MadCap:variable name="General.LinkedIn" />
+                    </p>
+                    <div style="text-align: justify;">
+                        <p style="font-size: 12pt;"><b>Disclaimer</b>:&#160;</p>
+                        <p style="font-size: 12pt;">Any information presented in this guide is accurate as at 16 April 2023. While the author has made every effort to present accurate information, any liability for potential errors and omissions is excluded.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Name="Year"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2016-02-16T18:02:51.1357833-08:00"
+    EvaluatedDefinition="yyyy">yyyy</Variable>
+  <Variable
+    Name="Email"
+    Comment=""
+    EvaluatedDefinition="fabisiak.agnieszka@gmail.com">fabisiak.agnieszka@gmail.com</Variable>
+  <Variable
+    Name="LinkedIn"
+    Comment=""
+    EvaluatedDefinition="https://www.linkedin.com/in/agnieszka-fabisiak-190a955/">https://www.linkedin.com/in/agnieszka-fabisiak-190a955/</Variable>
+  <Variable
+    Name="Facebook"
+    Comment=""
+    EvaluatedDefinition="https://www.facebook.com/profile.php?id=100085671993062">https://www.facebook.com/profile.php?id=100085671993062</Variable>
+  <Variable
+    Name="NewVariable"
+    Comment="" />
+  <Variable
+    Name="Date"
+    Comment=""
+    EvaluatedDefinition="" />
+  <Variable
+    Name="NewDateTimeVariable"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2023-05-20T12:58:07.2279322+02:00"
+    EvaluatedDefinition="dd.mm.yyyy">dd.mm.yyyy</Variable>
+</CatapultVariableSet>

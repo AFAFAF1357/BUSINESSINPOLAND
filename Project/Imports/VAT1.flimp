@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  ImportFolder="B-What you need to choose"
+  LastImport="2023-05-07T20:36:53.3465896+02:00">
+  <Files>
+    <Url
+      Source="../../../OneDrive/Desktop/projekt zal/VAT.docx"
+      AbsoluteSource="file:///C:/Users/afabi/OneDrive/Desktop/projekt zal/VAT.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/B-What you need to choose/Summary you need to check.htm"
+      TimeStamp="07.05.2023 20:36:46" />
+    <Url
+      Source="../TOCs/VAT1.fltoc"
+      TimeStamp="07.05.2023 20:36:46" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/VAT1.css"
+      TimeStamp="07.05.2023 20:36:46" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Akapit z listą"
+      To="p.Akapitzlistą"
+      Style="Word" />
+    <Map
+      From="Normalny (Web)"
+      To="p.NormalnyWeb"
+      Style="Word" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hiperłącze"
+      To="span.Hiperłącze"
+      Style="Word" />
+    <Map
+      From="Pogrubienie"
+      To="span.Pogrubienie"
+      Style="Word" />
+  </CharacterStyles>
+  <NewTopicStyles />
+</MsWordImport>

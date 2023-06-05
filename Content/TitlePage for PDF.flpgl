@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Title" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="title" PaddingLeft="1.5in" PaddingRight="1in" PaddingTop="1.00in" PaddingBottom="1in">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="0in" Right="0in" Bottom="0in" Width="576px" Height="864px">
+        </Frame>
+        <Frame X="6px" Y="5px" Width="570px" Height="57px" Flow="header" Right="0px" Bottom="802px" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align: right;">Start your business in Poland</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="5px" Y="819px" Width="567px" Height="45px" Flow="footer" Right="4px" Bottom="0px" />
+    </Page>
+    <Page Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="normal" PaddingLeft="1.5in" PaddingRight="1in" PaddingTop="1.00in" PaddingBottom="1in">
+        <Frame X="1px" Y="9px" Width="575px" Height="70px" Flow="header" Right="0px" Bottom="785px" Anchors="" />
+        <Frame X="3px" Y="817px" Width="573px" Height="47px" Flow="footer" Right="0px" Bottom="0px">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align:center;">- <MadCap:variable xhtml:name="System.PageNumber" /> -</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

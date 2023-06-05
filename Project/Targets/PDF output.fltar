@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
+  ConditionTagExpression="include[&quot;disclaimer for web.ScreenOnly&quot;], exclude[&quot;disclaimer for web.PrintOnly&quot;]"
+  PatchHeadingLevels="true"
+  ResolveCssVariables="false"
+  MasterPageLayout="/Content/Resources/PageLayouts/Print Page.flpgl"
+  OutputFolder="C:\Users\afabi\OneDrive\Desktop\XXX"
+  MasterToc="/Project/TOCs/TOC for PDF.fltoc"
+  GetLatestBeforeCompile="true"
+  CentralLinkIds=""
+  TargetLanguage="en-gb"
+  OutputFile="proj zal Agnieszka F [%=General.NewDateTimeVariable%]">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="doc"
+    ExpandingTextConversion="expand"
+    PopupConversion="expand" />
+  <PDF
+    Tagged="true"
+    TitleBar="DocumentTitle" />
+</CatapultTarget>

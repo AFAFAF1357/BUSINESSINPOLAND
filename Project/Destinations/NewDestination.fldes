@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="ftp.myftpserver.com"
+  User="MyAccountId"
+  Password=""
+  Directory="public_html"
+  Port=""
+  ViewUrl="https://techcommvistula.atlassian.net/wiki/spaces/~701210a92bf3914ff4bb3ac99dba35126f2b4/pages/edit-v2/148766734?draftShareId=804e2fc8-566e-4851-8c8a-11df01d3c50a&amp;inEditorTemplatesPanel=open"
+  Type="ftp"
+  AnonymousLogin="true"></CatapultDestination>

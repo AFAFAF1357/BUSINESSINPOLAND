@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MoveOutputContentToRoot="true"
+  SkinComponents=""
+  EnableResponsiveOutput="true"
+  MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp"
+  ResultsPerPage="10"
+  Skin="/Project/Skins/HTML5 - Top Navigation.flskn"
+  ConditionTagExpression="include[&quot;disclaimer for web.ScreenOnly&quot; or &quot;General.Audience A&quot;], exclude[&quot;disclaimer for web.PrintOnly&quot; or &quot;General.Audience B&quot;]"
+  DefaultUrl="/Content/HomeHTML.htm"
+  MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
+  MasterStylesheetOverride="true"
+  ShowMadCapBacklink="true"
+  MasterToc="/Project/TOCs/TOC for HTML.fltoc"
+  ContentInclusionType="Referenced"
+  OutputFolder="C:\Users\afabi\OneDrive\Desktop\TESTPUBL"
+  CentralLinkIds=""
+  TargetLanguage="en-gb"
+  GetLatestBeforeCompile="false">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="doc" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/NewDestination.fldes"
+      Publish="true"
+      IsResource="false" />
+  </Destinations>
+</CatapultTarget>

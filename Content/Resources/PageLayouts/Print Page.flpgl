@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Width="800" Height="800" Padding="20px" PageSize="A4" PageType="title" Name="Empty" PaddingRight="3.5cm" PaddingLeft="2.5cm" PaddingTop="2.5cm" PaddingBottom="2.5cm">
+        <Frame X="0px" Y="67px" Width="563px" Height="654px" Flow="body" Right="5px" Bottom="214px" />
+        <Frame X="0px" Y="-63px" Width="568px" Height="63px" Flow="header" Right="0px" Bottom="935px" TextAlign="right" Anchors="" BorderTopStyle="none" BorderTopWidth="1px" BorderBottomStyle="solid" BorderBottomWidth="1px" BorderBottomColor="#006400">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align: right;">
+                            <xhtml:img xhtml:src="../Images/ludzie ikona.jpg" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="5px" Y="785px" Width="558px" Height="150px" Flow="footer" Right="5px" Bottom="0px" Anchors="" BorderTopStyle="solid" BorderTopWidth="1px" BorderTopColor="#006400" TextAlign="justify">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:h3 xhtml:style="font-size: 10pt;">Note:&#160;</xhtml:h3>
+                        <xhtml:h3 xhtml:style="font-size: 10pt;">Any information presented in this guide is accurate as at 16 April 2023. While the author has made every effort to present accurate information, any liability for potential errors and omissions is excluded.</xhtml:h3>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Width="800" Height="800" Padding="20px" PageSize="A4" PageType="normal" PaddingRight="3.5cm" PaddingLeft="2.5cm" PaddingTop="0" PaddingBottom="2.5cm" BleedBottom="0" BleedLeft="0" BleedTop="0" BleedRight="0">
+        <Frame X="2px" Y="91px" Width="565px" Height="940px" Flow="body" Right="1px" Bottom="-2px" />
+        <Frame X="0px" Y="1046px" Width="569px" Height="59px" Flow="footer" Right="-1px" Bottom="-76px" Anchors="">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align: center;"><MadCap:variable xhtml:name="System.PageNumber" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="6px" Y="21px" Width="545px" Height="45px" Flow="header" Right="17px" Bottom="963px" BorderBottomStyle="solid" BorderBottomWidth="1px" Anchors="" BorderBottomColor="#155c15">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="table_head" xhtml:style="text-align: right;color: #006400;">Start a business in Poland</xhtml:p>
+                        <xhtml:p xhtml:class="table_head" xhtml:style="text-align: right;">&#160;</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>
